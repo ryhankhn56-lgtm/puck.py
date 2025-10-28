@@ -42,10 +42,7 @@ class MultiApp:
              if app== 'TRENDING':
                  trending.app()
              if app== 'YOUR POSTS':
-                 your_post()
+                 your_post.app()
              if app== 'ABOUT':
-                 about()
+                 about.app()
         
-   
-
-    
